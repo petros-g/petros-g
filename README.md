@@ -1,5 +1,5 @@
 
-![Logo](https://lh3.googleusercontent.com/pw/AP1GczM3QAIBM44OqiEsypToMWBNUqp-s2e3QlJ3nOngZtW5s2iIzniQbjT20eZbXeTK4UnsS3pgn_4kiHSfFOGL2HHTJIXXgt5rLCl2ZFljyskmZQbPllBocfJIQK9jc2ypojcXwa_uPQxTAdk_CFPCPa08uw=w1560-h891-s-no-gm?authuser=0)
+![Logo](https://lh3.googleusercontent.com/pw/AP1GczPUevNaFE56UOSxslfFcaqghbUnovnFjRk8SSe0kQ0N2DM_3g04BjUt4evH-9g9uhV-VgZg35inB9lHvnh121SWm5r8ZyGwC0E2p5WmAKNs8LGepAmDiQs4g4jUi0y4xFMOx1jlT86QQm0RIfc0DxuCyw=w1560-h891-s-no-gm?authuser=0)
 
 <div align="center">
    <h1>Hi there, I'm <a href="https://www.linkedin.com/in/petros-gkourmis/">Petros</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br> <br>💻 React Native Enthusiast</h1>
